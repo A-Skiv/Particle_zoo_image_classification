@@ -9,7 +9,7 @@ I also have included a very messy image preprocessing notebook. I will be cleain
 command line on macOS or Linux: 
 ```
 mkdir particle_zoo 
-git clone (copy the html link in upper corner of git page here)
+git clone https://github.com/A-Skiv/Particle_zoo_image_classification.git
 conda env create -f particle_zoo_env.yaml
 conda activate particle_zoo_env
 jupyter notebook 
