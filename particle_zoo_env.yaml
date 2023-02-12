@@ -1,0 +1,14 @@
+name: particle_zoo_env
+channels: 
+  - conda-forge
+dependencies:
+  - python
+  - jupyter
+  - matplotlib
+  - numpy
+  - PyYAML
+  - scikit-learn
+  - tensorflow
+  - opencv
+  - pandas
+  
