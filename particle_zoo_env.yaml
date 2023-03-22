@@ -11,4 +11,4 @@ dependencies:
   - tensorflow
   - opencv
   - pandas
-  
+  - pydot
